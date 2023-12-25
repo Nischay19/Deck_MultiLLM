@@ -1,0 +1,6 @@
+
+- Hey How to create a source of flatfile type of region europe.
+
+The limitation in this kind of architecture is the error compounding 
+caused by multiple llm agents. In order to reduce that we have kept the 
+context very niche for each agent.
